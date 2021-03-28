@@ -1,2 +1,8 @@
 # gxc-team-13
-gxc-team-13 created by GitHub Classroom
+Welcome to Team Alpine ECOnomics
+
+Mathilde Merry Pedersen
+Stephie Ziller
+Anirudh Divecha
+Bruno Jukic
+Jonas Nöthel
