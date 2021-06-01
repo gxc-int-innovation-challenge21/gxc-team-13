@@ -1,6 +1,6 @@
 # Welcome to Team Alpine ECOnomics Github Repository
 
-![image](https://github.com/gxc-int-innovation-challenge21/gxc-team-13/blob/main/logo.png)
+![image](https://github.com/gxc-int-innovation-challenge21/gxc-team-13/blob/9f915d7ffc43d7fbdb41f309f42067fb7ba5012d/logo.png)
 
 # About ECOskiers
 
