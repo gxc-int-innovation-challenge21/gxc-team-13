@@ -13,7 +13,7 @@ ECOskiers lets you have a quick and easy overview of different ski resorts and e
 The purpose of the app is not only to show which ski resorts are more sustainable, you can also book your ski resort directly through ECOskier. Besides the sustainability rating you can also see information such as live weather conditions, address, contact details and lenghts of the slopes. Another advantage for the user comes by booking the package deals, which are themselves all different, but can include accommodation, transportation and ski pass all in one. 
 
 The concept is developed upon a great amount of research. The main problems for end users seemed to be the lack of knowledge on how to act more sustainable when skiing as well as the lack of willingness to sacrifice convenience. Therefore, the team was looking to make it easier for the young adult casual skier to make sustainable choices. 
-You can read more about the process on our ![wiki page](https://github.com/gxc-int-innovation-challenge21/gxc-team-13/wiki).
+You can read more about the process on our wiki page.
 
 ![image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-13/3df26c81d137cc0a75111cec2831226945bf28b5/appp%20ski%20resorts.png?token=ATM3ZJILN3SIFVUM3FTSP7DAX5THI) ![image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-13/e8b5e33056878d305737a96a161c863e1f04f066/appp%20ski3.png?token=ATM3ZJL2P6MDEJNETI33VILAX5THK)
 
@@ -39,3 +39,5 @@ Alpine ECOnomics is the team behind the concept of ECOskiers. The team was put t
 
 
 Github page: https://gxc-int-innovation-challenge21.github.io/gxc-team-13/
+
+Wiki page: https://github.com/gxc-int-innovation-challenge21/gxc-team-13/wiki
