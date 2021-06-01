@@ -20,7 +20,7 @@ You can read more about the process on our ![wiki page](https://github.com/gxc-i
 # About Alpine ECOnomics
 Alpine ECOnomics is the team behind the concept of ECOskiers. The team was put together by the course professors in order to ensure interdiciplinary teams. It has been a very positive experience to work together online and improving teamwork-, language and problem-solving skills. 
 
-**Mathilde Merry Pedersen **
+**Mathilde Merry Pedersen**
 - Global Business Engineering student from Copenhagen, Denmark
 
 **Stephie Ziller**
